@@ -1,0 +1,8 @@
+Doubly LL class++
++++++++++++++++++
+
+1> insert(at tail, at head, random index)
+2> delte(at tail, at head, at index)
+3> get(at tail, at head, at index)
+
+
